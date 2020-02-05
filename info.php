@@ -2,6 +2,4 @@ my file
 
 
 
-
-
 this is
