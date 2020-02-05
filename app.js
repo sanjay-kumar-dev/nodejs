@@ -7,7 +7,7 @@ const logger = require('morgan')
 const querystring = require('querystring')
 const helmet = require('helmet')
 
-// Load environment variables using dotenv ##
+// Load environment variables using dotenv #####
 require('dotenv').config({ path: 'variables.env' })
 
 const helpers = require('./helpers')
